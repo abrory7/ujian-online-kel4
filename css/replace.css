@@ -1,0 +1,12 @@
+.bimg /*for background in login page */
+{
+    background-image: url(../img/bimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.shdwff
+{
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: center;
+}
