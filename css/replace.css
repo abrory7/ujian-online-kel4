@@ -1,8 +1,10 @@
 .bimg /*for background in login page */
 {
-    background-image: url(../img/bimg.jpg);
+    background-image: url(../img/bimg.png);
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
+    min-height: 100%;
 }
 .shdwff
 {
@@ -10,3 +12,4 @@
     text-shadow: 2px 2px 4px #000000;
     text-align: center;
 }
+
