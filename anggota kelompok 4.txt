@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Anggota Kelompok:
 Naomi Sekariyanti
 Misnariyani
 Sadikin Nor
+=======
+Anggota Kelompok:
+Naomi Sekariyanti
+Misnariyani
+Sadikin Nor
+>>>>>>> 16a7f4b61c2ca6c6d1d76ea59ab3183f86d7e5b9
 Taufiq Abrory
