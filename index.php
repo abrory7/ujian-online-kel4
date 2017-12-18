@@ -1,4 +1,4 @@
-<?php include 'hf/hlog.php'; ?>
+<?php include 'hf/header.php'; ?>
 <body class="bimg">
     <div class="container">     
         <div class="col-sm-5 mx-auto pb-1" style="padding-top: 7%;"> 
